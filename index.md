@@ -1,4 +1,4 @@
-
+## GWAS-eQTL Colocalization Analysis Workflow
 [Zhang Lab@Columbia](https://hanruizhang.github.io/zhanglab/) by **Fang Li** [2019-08-01]
 
 ### 1. The purpose of GWAS-eQTL intergration
