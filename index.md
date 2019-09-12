@@ -62,7 +62,7 @@ GWAS locus that colocalized with eQTL is one of the primary and scalable signal 
    
 ![](https://raw.githubusercontent.com/fangli359/fangli359.github.io/master/rs9349379%20locus.png)
   
-* You may download the Rmd file [here](GWAS_eQTL_colocalization_workflow.Rmd).
+* You may download the Rmd file [here](GWAS_eQTL_colocalization_workflow.Rmd) and the html output [here](GWAS_eQTL_colocalization_workflow.html).
 
 
 **Materials here are licensed as [CC BY-NC-SA 4.0 Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/).**
