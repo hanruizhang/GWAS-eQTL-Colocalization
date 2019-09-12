@@ -20,7 +20,7 @@ GWAS locus that colocalized with eQTL is one of the primary and scalable signal 
 ### 3. Colocalization analysis using ***coloc***
 
 * Read sample data into R:  
-  You can download the examples files: [GWAS](https://github.com/fangli359/fangli359.github.io/blob/master/CAD_GWAS.txt) and [eQTL](https://github.com/fangli359/fangli359.github.io/blob/master/Artery_Coronary_v7_eQTL_PHACTR1.txt) datasets.  
+  You can download the sample files by right clicking the link: [GWAS](https://github.com/fangli359/fangli359.github.io/blob/master/CAD_GWAS.txt) and [eQTL](https://github.com/fangli359/fangli359.github.io/blob/master/Artery_Coronary_v7_eQTL_PHACTR1.txt) datasets.  
   `eqtl <- read.table(file="[path to]/Artery_Coronary_v7_eQTL_PHACTR1.txt", header=T, as.is=T);
   head(eqtl)
   `
