@@ -3,7 +3,7 @@
 [Zhang Lab@Columbia](https://hanruizhang.github.io/zhanglab/) by **Fang Li** [2019-08-01]
 
 ### 1. The purpose of GWAS-eQTL intergration
-* Is the my variant an eQTL?
+* Is my variant an eQTL?
 * Is the leading variant of the GWAS and eQTL signal the same?
 * Is my GWAS association of interest driven by an eQTL that may indiciate a functinal mechanism?  
 
